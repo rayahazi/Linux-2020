@@ -46,8 +46,7 @@ This is shown as -rwxrw-r-
 
 #### example:
 ```sh
-┌─[raya@parrot]─[~/Desktop]
-└──╼ $chmod o+rwx b.txt 
+chmod o+rwx b.txt 
 
 or: chmod u=rwx
 chmod u+rwx
