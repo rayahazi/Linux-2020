@@ -5,4 +5,8 @@
 4. Change the name of the file `first.txt` to `one.txt`
 5. Remove permissions of `first.txt` so only the user can read and write. 
 6. Print permissions of the file.
+7. Create a folder inside `Practice03` named: `FolderToDelete`
+8. Inside `FolderToDelete` create 3 files `a.txt`, `b.txt`, `c.txt`. 
+9. Go back to `Prcatice03` and delete the folder `FolderToDelete`. 
 
+### Good luck!
