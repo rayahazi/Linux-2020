@@ -110,9 +110,13 @@ raya:$6$oloCWpfW$q4beNkhVne7Bzy67kt8dkC83JfPG2LjauphiIWFFTz8q58QYsDq//e8psyTdjJh
 Usually password format is set to `$id$salt$hashed`. 
 
     the `id`:
+    
         1. `$1$` is MD5
+        
         2. `$2a$`, `$2y$` is Blowfish
+        
         3. `$5$` is SHA-256
+        
         4. `$6$` is SHA-512
 
 ```
