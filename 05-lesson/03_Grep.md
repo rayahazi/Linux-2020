@@ -54,14 +54,13 @@ Bob
 Alice
 Root
 Linux is great
-```
 
 raya@raya-VirtualBox:~/Desktop/Lesson05\$ grep --invert-match User a.txt
 Bob
 Alice
 Root
 Linux is great
-
+```
 ### Search for a pattern using pipe
 
 ```bash
