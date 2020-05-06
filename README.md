@@ -48,11 +48,13 @@
 * nano
 
 ## Lesson 05:
-* date
 * Less
-* More
 * Wc
 * Grep
 * Egrep
 * Regular expressions
+ * `^`
+ * `$`
+ * `*`
+ * `.`
 
