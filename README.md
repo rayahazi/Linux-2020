@@ -1,5 +1,4 @@
 # Linux-2020
-# Linux course 
 
 ## Lesson 01:
 * Intro to linux OS. 
