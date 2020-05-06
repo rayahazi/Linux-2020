@@ -53,8 +53,8 @@
 * Grep
 * Egrep
 * Regular expressions
- * `^`
- * `$`
- * `*`
- * `.`
+  * `^`
+  * `$`
+  * `*`
+  * `.`
 
