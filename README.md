@@ -63,9 +63,9 @@
 * Exit code
 * Variables
 * Operations:
- * expr
- * []
- * [[]]
+  * expr
+  * []
+  * [[]]
 * Increment & Decrement
 * Run bash file
 
@@ -76,8 +76,8 @@
 * Numbers vs Strings comparison
 * read - input
 * Programs: 
- * Max number
- * Median number
+  * Max number
+  * Median number
  
 ## Lesson 08:
 * seq
@@ -87,15 +87,15 @@
 * While loop
 * Infinite loop
 * Programs:
- * Check all files in directory
- * Pyramid
+  * Check all files in directory
+  * Pyramid
  
 ## Lesson 09:
 * Until loop
 * Programs:
- * Swap two numbers
- * Fibonacci series
- * Palindrome 
+   * Swap two numbers
+   * Fibonacci series
+   * Palindrome 
 * String length
 * Functions
 * Functions with parameters
