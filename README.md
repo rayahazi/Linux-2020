@@ -58,3 +58,60 @@
   * `*`
   * `.`
 
+## Lesson 06:
+* Echo command
+* Exit code
+* Variables
+* Operations:
+ * expr
+ * []
+ * [[]]
+* Increment & Decrement
+* Run bash file
+
+## Lesson 07:
+* File or Directory
+* If statement
+* Short if statement
+* Numbers vs Strings comparison
+* read - input
+* Programs: 
+ * Max number
+ * Median number
+ 
+## Lesson 08:
+* seq
+* Lists
+* For loop
+* Mested for loop
+* While loop
+* Infinite loop
+* Programs:
+ * Check all files in directory
+ * Pyramid
+ 
+## Lesson 09:
+* Until loop
+* Programs:
+ * Swap two numbers
+ * Fibonacci series
+ * Palindrome 
+* String length
+* Functions
+* Functions with parameters
+* Nested functions
+* Null in function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
