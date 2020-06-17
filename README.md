@@ -102,8 +102,16 @@
 * Nested functions
 * Null in function
 
+## Lesson 10:
+* shuf - random
+**Rock, Paper, Scissors game.** 
 
-
+## Lesson 11:
+* I/O redirections:
+ * stdin
+ * stdout
+ * stderr
+* Test preparation
 
 
 
